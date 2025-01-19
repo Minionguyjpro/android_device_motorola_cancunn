@@ -30,7 +30,7 @@ PRODUCT_BRAND := motorola
 PRODUCT_MANUFACTURER := motorola
 
 # API
-PRODUCT_SHIPPING_API_LEVEL := 34
+#PRODUCT_SHIPPING_API_LEVEL := 34
 
 # Forcefully add mtp support (adb is already there)
 #PRODUCT_DEFAULT_PROPERTY_OVERRIDES += \
